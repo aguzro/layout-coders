@@ -1,33 +1,45 @@
 .contenedor {
-  width: 80%;
+  width: 70%;
+  margin: 0 auto;
 }
 .headercaja {
   width: 80%;
   margin: 0 auto;
+
 }
-.imagenheader {
+.headerimagen {
   width: 100%;
 }
 .nav {
   width: 80%;
   margin: 0 auto;
 }
-#imagengrupo {
-  width: 100%; 
+.navbar {
+  width: 100%;
+}
+#imagegroup {
+  width: 80%; 
   margin: 0 auto; 
+}
+.centerimage {
+  width: 100%
+}
+.description {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 p {
   width: 50%;
   margin: 0 auto;
 }
-#separator {
-	border-top: 3px solid black;
-	width: 65px; 
-	height: 15px;
-	display: block;
+.codersgallery {
+  width: 80%;
+  margin: 0 auto;
 }
 #bloques {
-	width: 750px;
+	width: 100%;
 }
 .container {
   height: 212px;
