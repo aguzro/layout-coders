@@ -1,1 +1,53 @@
-/* Ingresa tu css aqui */
+.contenedor {
+  width: 80%;
+}
+.headercaja {
+  width: 80%;
+  margin: 0 auto;
+}
+.imagenheader {
+  width: 100%;
+}
+.nav {
+  width: 80%;
+  margin: 0 auto;
+}
+#imagengrupo {
+  width: 100%; 
+  margin: 0 auto; 
+}
+p {
+  width: 50%;
+  margin: 0 auto;
+}
+#separator {
+	border-top: 3px solid black;
+	width: 65px; 
+	height: 15px;
+	display: block;
+}
+#bloques {
+	width: 750px;
+}
+.container {
+  height: 212px;
+  width: 212px;
+  position: relative;
+  margin: 10px 10px 10px 10px ;
+  display: inline-block;
+}
+.image {
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 1;
+  display: inline-block;
+}
+.text {
+  z-index: 2;
+  position: absolute;
+  color: #ffffff;
+  font-size: 16px;
+  left: 140px;
+  top: 170px;
+}
