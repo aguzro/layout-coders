@@ -5,7 +5,6 @@
 .headercaja {
   width: 80%;
   margin: 0 auto;
-
 }
 .headerimagen {
   width: 100%;
@@ -60,6 +59,34 @@ p {
   position: absolute;
   color: #ffffff;
   font-size: 16px;
-  left: 140px;
-  top: 170px;
+  left: 100px;
+  top: 190px;
+}
+
+/* Estilos de coder-detail.html */
+
+.contenedor1 {
+  width: 70%;
+  margin: 0 auto;
+  border: 5px solid gray;
+}
+.imagecodercaja {
+  width: 80%;
+  margin: 0 auto;  
+}
+.presentacion {
+  width: 80%;
+  margin: 0 auto;
+}
+.habilidades {
+  width: 80%;
+  margin: 0 auto;
+}
+.portafolio {
+  width: 80%;
+  margin: 0 auto;
+}
+.coderimage {
+  border-radius: 50%;
+  margin: 0 auto;
 }
