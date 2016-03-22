@@ -92,75 +92,19 @@ p {
   left: 100px;
   top: 190px;
 }
-
-/* Estilos de coder-detail.html */
-
-.contenedor1 {
-  width: 70%;
-  margin: 0 auto;
-  border: 3px solid gray;
+#supergirl {
+  -webkit-animation: example 4s infinite; 
+  animation: example 4s infinite;
+  position: fixed;
+  right: 0;
+  top: 30%;
+  z-index: 3;
 }
-.imagecodercaja {
-  width: 80%;
-  margin: 0 auto;  
+@-webkit-keyframes example {
+    from {right: 0;}
+    to  {right: 100%;}
+  }
+@keyframes example {
+    from {right: 0;}
+    to  {right: 100%;}
 }
-.coderimage {
-  border-radius: 50%;
-  margin: 0 auto 0 auto;
-  display: block;
-  padding-top: 10px;
-}
-.presentacion {
-  width: 80%;
-  margin: 0 auto;
-}
-.presentaciontext {
-  width: 100%;
-  text-align: center;
-}
-.habilidades {
-  width: 80%;
-  margin: 0 auto;
-}
-.cajahabilidades1 {
-  width: 650px;
-  height: 40px;
-  background-color: gray;
-  display: block;
-  margin-bottom: 20px;
-}
-.cajahabilidades2 {
-  width: 550px;
-  height: 40px;
-  background-color: gray;
-  display: block;
-  margin-bottom: 20px;
-}
-.cajahabilidades3 {
-  width: 250px;
-  height: 50px;
-  background-color: gray;
-  display: block;
-  margin-bottom: 20px;
-}
-.texthabilidades {
-  color: #ffffff;
-  margin: 5px 5px 5px 5px;
-}
-.portafolio {
-  width: 80%;
-  margin: 0 auto;
-}
-.bloqueport {
-  width: 100%;
-}
-.portimg {
-  width:30%; 
-  display: inline-block;
-  margin-bottom: 20px;
-  margin-left: 20px;
-}
-img {
-  display: inline-block;
-}
-

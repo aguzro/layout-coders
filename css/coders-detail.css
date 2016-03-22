@@ -1,0 +1,69 @@
+.contenedor1 {
+  width: 70%;
+  margin: 0 auto;
+  border: 3px solid gray;
+}
+.imagecodercaja {
+  width: 80%;
+  margin: 0 auto;  
+}
+.coderimage {
+  border-radius: 50%;
+  margin: 0 auto 0 auto;
+  display: block;
+  padding-top: 10px;
+}
+.presentacion {
+  width: 80%;
+  margin: 0 auto;
+}
+.presentaciontext {
+  width: 100%;
+  text-align: center;
+}
+.habilidades {
+  width: 80%;
+  margin: 0 auto;
+}
+.cajahabilidades1 {
+  width: 650px;
+  height: 40px;
+  background-color: gray;
+  display: block;
+  margin-bottom: 20px;
+}
+.cajahabilidades2 {
+  width: 550px;
+  height: 40px;
+  background-color: gray;
+  display: block;
+  margin-bottom: 20px;
+}
+.cajahabilidades3 {
+  width: 250px;
+  height: 50px;
+  background-color: gray;
+  display: block;
+  margin-bottom: 20px;
+}
+.texthabilidades {
+  color: #ffffff;
+  margin: 5px 5px 5px 5px;
+}
+.portafolio {
+  width: 80%;
+  margin: 0 auto;
+}
+.bloqueport {
+  width: 100%;
+}
+.portimg {
+  width:30%; 
+  display: inline-block;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+img {
+  display: inline-block;
+}
+
